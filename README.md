@@ -50,8 +50,9 @@ You can also use the CLI downloader:
 ## Donate / Support
 
 If this project helps you, consider supporting development:
-- PayPal: viorelstanculet1234@outlook.com
+
 - Donate link: https://www.paypal.com/donate?business=viorelstanculet1234%40outlook.com&no_recurring=0&currency_code=USD
 
 Made by Sponex. © 2025
+
 
